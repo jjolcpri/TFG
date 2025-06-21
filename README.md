@@ -1,5 +1,5 @@
 # TFG
-Hello, these are some of the scripts that I had to create in order to automate the use of Earl Grey, BRAKER3 (using the BRAKER2 tool) and GeMoMa. They serve as a presentation to my first 'professional' work.\
+Hello, these are some of the scripts that I had to create in order to automate the use of Earl Grey, BRAKER3 (using the BRAKER2 tool), GeMoMa and GAQET2. They serve as a presentation to my first 'professional' work.\
 It is important to point out the code won't work if you just copy paste them because it was created using absolute routes (I thought it would be easier to run that way). The code for GAQET2 won't probably work too, as it was created during a very early state of developement of the tool (v. 0.6.8) and I had to do some tricks (such as running the program twice) in order to get all the info the way I wanted.
 ## Programs used
 Here you can find the links to the articles that describe the use and making of the programs.\
