@@ -10,4 +10,4 @@ Keilwagen, J., Wenk, M., Erickson, J. L., Schattat, M. H., Grau, J., & Hartung, 
 BRAKER3:\
 Gabriel, L., Brůna, T., Hoff, K. J., Ebel, M., Lomsadze, A., Borodovsky, M., & Stanke, M. (2024). BRAKER3: Fully automated genome annotation using RNA-seq and protein evidence with GeneMark-ETP, AUGUSTUS and TSEBRA (p. 2023.06.10.544449). bioRxiv. https://doi.org/10.1101/2023.06.10.544449\
 GAQET2:\
-García-Carpintero, V. (2025). GAQET2 - Genome Annotation Quality Evaluation Tool. Published on the Internet; https://github.com/victorgcb1987/GAQET2 Retrieved 15 May 2025. Retrieved 28 of May 2025.![image](https://github.com/user-attachments/assets/e137cde9-d2c3-40a3-b2c5-d7d2e13f676a)\
+García-Carpintero, V. (2025). GAQET2 - Genome Annotation Quality Evaluation Tool. Published on the Internet; https://github.com/victorgcb1987/GAQET2 Retrieved 15 May 2025. Retrieved 28 of May 2025.
